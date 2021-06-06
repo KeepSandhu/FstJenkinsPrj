@@ -1,4 +1,5 @@
 package asr.org;
+import moga.org.*;
 
 public class HelloWorld {
 
@@ -19,8 +20,11 @@ public class HelloWorld {
 		System.out.println("***y = " + i);
 		System.out.println("***z = " + z);
 		System.out.println("***************I am at End ***********************************");
+		System.out.println("****CAlling  nameOFVIllage*****************");
+		NathuWalaVillage.nameOfVillage(1);
 		
 
 	}
 
 }
+
