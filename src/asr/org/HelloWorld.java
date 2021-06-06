@@ -9,8 +9,8 @@ public class HelloWorld {
 		System.out.println("This change was made by singh brothers");
 		int i, z;
 		int y;
-		i = 4;
-		y = 5;
+		i = 13;
+		y = 13;
 		z = i + y;
 		System.out.println("********************************I am at End ***********************************z = " + z);
 		
